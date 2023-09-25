@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d0d8ce2-69f0-4b81-b6d2-1196836dd59b" name="Changes" comment="segundo commit" />
+    <list default="true" id="2d0d8ce2-69f0-4b81-b6d2-1196836dd59b" name="Changes" comment="segundo commit">
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/201tresfrases.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios/202calculos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pruebas/prueba1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +60,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "Docker",
+    "settings.editor.selected.configurable": "configurable.group.language",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -101,6 +107,7 @@
       <workItem from="1695406227725" duration="1006000" />
       <workItem from="1695575780295" duration="727000" />
       <workItem from="1695576521098" duration="961000" />
+      <workItem from="1695650235238" duration="3182000" />
     </task>
     <task id="LOCAL-00001" summary="commit inicial">
       <option name="closed" value="true" />
@@ -139,5 +146,9 @@
     <MESSAGE value="commit inicial" />
     <MESSAGE value="segundo commit" />
     <option name="LAST_COMMIT_MESSAGE" value="segundo commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
