@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+    <form action="204datosPersonales.php" method="post">
+        <label for="inputNombre">Introduce tu Nombre</label><br>
+        <input type="text" name="nombre" id="inputNombre"><br>
+        <label for="inputApellidos">Introduce tus Apellidos</label><br>
+        <input type="text" name="apellidos" id="inputApellidos"><br>
+        <label for="inputCorreo">Introduce tu dirección de correo</label><br>
+        <input type="email" name="email" id="inputCorreo"><br>
+        <label for="inputAnyo">Introduce tu año</label><br>
+        <input type="number" min="1930" max="2023" step="1" name="anyo" id="inputAnyo"><br>
+        <label for="inputTelefono">Introduce tu teléfono</label><br>
+        <input type="tel" name="telefono" id="inputTelefono"><br>
+        <input type="submit" value="Enviar">
+    </form>
+
+</body>
+</html>
